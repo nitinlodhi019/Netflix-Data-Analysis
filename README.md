@@ -138,7 +138,7 @@ The analysis revealed a clear, decisive shift in content strategy and identified
 
 * **Clone the repository:**
 ```
-git clone  
+git clone  https://github.com/nitinlodhi019/Netflix-Data-Analysis.git
 ```
 
 **Install the required libraries:**
